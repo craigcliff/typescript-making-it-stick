@@ -36,3 +36,4 @@ yarn
 ## Legal
 
 &copy; 2022 Michael North, All Rights Reserved
+# typescript-making-it-stick
